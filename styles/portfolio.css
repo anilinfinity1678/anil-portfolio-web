@@ -60,13 +60,13 @@
 
 @media (max-width: 500px) {
     .portfolio {
-        width: 300px;
+        width: 340px;
         height: 650px;
     }
 }
 
 @media (350px<= width<500px) {
     .portfolio {
-        width: 290px;
+        width: 320px;
     }
 }
