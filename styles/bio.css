@@ -149,6 +149,6 @@ li {
 }
 @media (max-width: 450px) {
     .bio {
-        width: 350px;
+        width: 330px;
     }
 }

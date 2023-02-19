@@ -21,7 +21,7 @@
     padding-left: 20px;
     display: flex;
     flex-direction: column;
-    gap: 50px;
+    gap: 40px;
     border-left: 1px solid #f6d0b5;
 }
 
@@ -31,7 +31,7 @@
 }
 
 .educationH {
-    font-size: 1.7rem;
+    font-size: 1.5rem;
 }
 
 .time-line::before {
@@ -88,12 +88,15 @@
     .institute {
         font-size: 1rem;
     }
+    .educationH {
+        font-size: 1.2rem;
+    }
 }
 
 @media (max-width: 500px) {
     .resume {
         width: 400px;
-        height: 450px;
+        height: 550px;
     }
 }
 @media (max-width: 450px) {
