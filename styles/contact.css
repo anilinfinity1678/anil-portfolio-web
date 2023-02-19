@@ -84,7 +84,7 @@ form {
 
 @media (max-width: 500px) {
     .contact {
-        width: 400px;
+        width: 360px;
         height: 400px;
         padding-right: 5px;
     }
@@ -98,7 +98,7 @@ form {
 
 @media (350px<= width<500px) {
     .contact {
-        width: 350px;
+        width: 330px;
         height: 430px;
     }
 }

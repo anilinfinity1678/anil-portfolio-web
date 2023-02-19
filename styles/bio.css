@@ -144,11 +144,14 @@ li {
 }
 @media (max-width: 500px) {
     .bio {
-        width: 400px;
+        width: 360px;
+    }
+    .name {
+        font-size: 1.5rem;
     }
 }
 @media (max-width: 450px) {
     .bio {
-        width: 330px;
+        width: 300px;
     }
 }
