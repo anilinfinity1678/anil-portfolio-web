@@ -63,7 +63,7 @@
 
 @media (max-width: 500px) {
     .about {
-        width: 350px;
+        width: 330px;
         height: 800px;
     }
     .about-btn {
@@ -75,7 +75,7 @@
 
 @media (350px<= width<500px) {
     .about {
-        width: 300px;
+        width: 270px;
         height: 830px;
     }
 }
