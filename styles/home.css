@@ -64,7 +64,7 @@
 @media (max-width: 500px) {
     .about {
         width: 330px;
-        height: 800px;
+        height: 840px;
     }
     .about-btn {
         display: flex;
